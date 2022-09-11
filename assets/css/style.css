@@ -45,6 +45,7 @@ input,
 select {
     width: 100%;
     display: inline-block;
+    margin-bottom: 5px;
 }
 
 legend {
